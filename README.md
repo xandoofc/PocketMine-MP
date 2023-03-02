@@ -1,6 +1,6 @@
 # Pmmp do xando 
  essa porra é feita pra terminal,PHP 7.2.6,
- é possível utilizar Tutanic
+ é possível utilizar: Turanic
  e pmmp-phar oficial.
 
 # Trocas de API
