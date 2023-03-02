@@ -8,10 +8,11 @@ Turanic, genisys e oficial.
  (desde que suporte PHP 7-7.2)
 
 # Trocas de PHP
-Bom, é apenas trocar o file "PHP" -
-do bin/php7/bin/PHP. dicas: aplicativos
+Bom, é apenas trocar o file "php" -
+do bin/php7/bin/php 
+ dicas: aplicativos
  Pocketmine-MP Geralmente tem esse arquivo PHP. 
-(Pasta assets)
+(Pasta assets, apk editor ou MT manager)
 
 # Instalar passo a passo (termux)
 1. pkg install git
