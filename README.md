@@ -18,9 +18,9 @@ do bin/php7/bin/PHP. dicas: aplicativos
 2. Git clone (link deste repositório)
 3. cd PocketMine-MP (caso faça alguma merda irreversível, utilize cd, e em -rf Pocketmine-MP)
 4. chmod +x ./start.sh
-5. chmod +x bin/php7/bin/PHP
+5. chmod +x bin/php7/bin/php
 6. ./start.sh 
 Pronto, agora é só configurar idioma e etc.
 
 
-
+by: Xando
