@@ -16,5 +16,11 @@ do bin/php7/bin/PHP. dicas: aplicativos
 # Instalar passo a passo (termux)
 1. pkg install git
 2. Git clone (link deste repositório)
-3. cd 
+3. cd PocketMine-MP (caso faça alguma merda irreversível, utilize cd, e em -rf Pocketmine-MP)
+4. chmod +x ./start.sh
+5. chmod +x bin/php7/bin/PHP
+6. ./start.sh 
+Pronto, agora é só configurar idioma e etc.
+
+
 
